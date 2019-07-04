@@ -1,2 +1,2 @@
 # playground
-Programming exercises script dump, odds and ends.
+Various programming exercises script dump, odds and ends. 
